@@ -24,6 +24,13 @@ The primary goal of this project is to create a robust business intelligence sol
 
 Financial analytics provide AtliQ with valuable insights into profitability, budget planning, and overall financial strategy. These reports help the company monitor its financial health, align business objectives, and ensure sustainable growth while benchmarking against industry standards.
 
+Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
+
 **Insights:**
 
 
@@ -41,7 +48,7 @@ Financial analytics provide AtliQ with valuable insights into profitability, bud
 
 - ETL processes (Extract, Transform, Load) for streamlined data handling
 - Power Query for advanced data transformation and automation
-- DAX (Data Analysis Expressions) for creating custom calculations and measures
+- DAX (Data Analysis Expressions) for creating custom calculations, calculated columns and measures
 - Data modelling and relationship building using Power Pivot
 - Crafting dynamic reports and dashboards with Pivot Tables
 
@@ -49,6 +56,8 @@ Financial analytics provide AtliQ with valuable insights into profitability, bud
 - Business-oriented approach to Finance analytics
 - Designing user-friendly, insightful reports tailored for decision-makers
 - Strategic report planning and structured execution
+- Optimization of report generation through meticulous fine-tuning
+- Developing a systematic approach to devising a report building plan.
 - Designing reports optimized for accuracy, clarity, and usability
 - Effectively presenting analytical insights to stakeholders
 
