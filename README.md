@@ -27,13 +27,15 @@ Financial analytics provide AtliQ with valuable insights into profitability, bud
 **Insights:**
 
 
-_**P&L by Fiscal Year Report :**_ A comprehensive review of revenue and expenses, showing consistent growth and well-maintained gross margins year over year.
+- _**P&L by Fiscal Year Report :**_ A comprehensive review of revenue and expenses, showing consistent growth and well-maintained gross margins year over year.
 
-_**GM % by Quarters :**_ Provides quarterly insights into gross margin percentage by region, helping identify areas with the highest profitability.
+- _**P&L by Month Report :**_ A comprehensive review of revenue and expenses, showing consistent growth and well-maintained gross margins by every month.
 
-_**P&L by Markets Report :**_ Evaluates profitability by market, spotlighting top-performing regions like Japan and New Zealand, as well as areas requiring attention, such as Germany.
+- _**GM % by Quarters :**_ Provides quarterly insights into gross margin percentage by region, helping identify areas with the highest profitability.
 
-**Technical & Soft Skills**
+- _**P&L by Markets Report :**_ Evaluates profitability by market, spotlighting top-performing regions like Japan and New Zealand, as well as areas requiring attention, such as Germany.
+
+## Technical & Soft Skills
 
 **Technical Skills:**
 
@@ -45,13 +47,9 @@ _**P&L by Markets Report :**_ Evaluates profitability by market, spotlighting to
 
 **Soft Skills:**
 - Business-oriented approach to Finance analytics
-
 - Designing user-friendly, insightful reports tailored for decision-makers
-
 - Strategic report planning and structured execution
-
 - Designing reports optimized for accuracy, clarity, and usability
-
 - Effectively presenting analytical insights to stakeholders
 
 This business intelligence solution enables AtliQ Hardware to make data-driven decisions, driving growth and operational efficiency across key markets.
